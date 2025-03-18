@@ -1,16 +1,32 @@
-# hellow_world
+## hello_world
+Nama : Reza Prasasti
+NIM  : 230444040006
+PD   : Manajemen Informatika (04421)
+Ini adalah tugas aplikasi pertama dan widget dasar flutter.
 
-A new Flutter project.
+A new flutter project.
+![Screenshoot Hello_World](images/Reza01.png)
 
-## Getting Started
+Laporan 1 : Text Widgets.
+![Screenshoot Hello_World](images/Reza02.png)
 
-This project is a starting point for a Flutter application.
+Laporan 2 : Image Widgets.
+![Screenshoot Hello_World](images/Reza03.png)
 
-A few resources to get you started if this is your first Flutter project:
+Laporan 3 : Loading Cupertino.
+![Screenshoot Hello_World](images/Reza04.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Laporan 4 : Floating Action Button.
+![Screenshoot Hello_World](images/Reza05.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Laporan 5 : Scaffold Widget.
+![Screenshoot Hello_World](images/Reza06.png)
+
+Laporan 6 : Dialog Widget.
+![Screenshoot Hello_World](images/Reza07.png)
+
+Laporan 7 : Text Field.
+![Screenshoot Hello_World](images/Reza08.png)
+
+Laporan 8 : Date and Time Pickers.
+![Screenshoot Hello_World](images/Reza09.png)
